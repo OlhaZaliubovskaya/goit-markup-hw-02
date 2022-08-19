@@ -162,6 +162,7 @@
 .team-prof {
   line-height: 1.18;
   text-align: center;
+  font-size: 16px;
   letter-spacing: 0.03em;
   color: var(--text-color);
 }
